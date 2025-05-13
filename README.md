@@ -1,6 +1,6 @@
 "# wit-cli-python" 
 
-**wit** is a simplified, Git-inspired version control system built in Python using the Click library. It provides core version control functionalities via an easy-to-use Command Line Interface (CLI), and is designed with Object-Oriented Programming (OOP) principles.
+**wit** is a  Git-inspired version control system built in Python using the Click library. It provides core version control functionalities via an easy-to-use Command Line Interface (CLI), and is designed with Object-Oriented Programming (OOP) principles.
 
 ## 🚀 Features
 
